@@ -1,1 +1,1 @@
-# [View the notewook](Plot-Yearly-Temperature-Data.ipynb)
+# [View the notebook](Plot-Yearly-Temperature-Data.ipynb)
